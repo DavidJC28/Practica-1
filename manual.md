@@ -44,5 +44,5 @@ Las Blocknotes pueden contener otros elementos formateados en Markdown. No se pu
 >  ayuda me muero
 
 ## Tablas
---- hola
+--- hola ---
 asfjasfuo|ljndsglsdg|
