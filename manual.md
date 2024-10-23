@@ -22,5 +22,27 @@ Para la lista en viñetas utilizaremos simbolos en vez de numeros a diferencia d
 * Segundo elemento
 + Tercer elemento
 - Cuarto elemento
+## Enlaces e imagenes
+Para poner una imagen la descargamos, la subimos a nuestro repositorioy ponemos algo parecido a esto "![ejemplo]()" dentro del parentesis le ponemos el nombre de la imagen que hemos guardado:
 
+ ![hoja](./hoja.jfif)
 
+## Codigo
+Para crear bloques de código, escribe cada línea del bloque con al menos cuatro espacios o una tabulación.
+  <html>
+    <head>
+    </head>
+  </html>
+  
+## Citas
+Las Blocknotes pueden contener otros elementos formateados en Markdown. No se pueden utilizar todos los elementos; deberá experimentar para ver cuáles funcionan.
+> #### hola
+>
+> - como estas
+> - baldurs gate
+>
+>  ayuda me muero
+
+## Tablas
+--- hola
+asfjasfuo|ljndsglsdg|
