@@ -28,11 +28,7 @@ Para poner una imagen la descargamos, la subimos a nuestro repositorioy ponemos 
  ![hoja](./hoja.jfif)
 
 ## Codigo
-Para crear bloques de código, escribe cada línea del bloque con al menos cuatro espacios o una tabulación.
-  <html>
-    <head>
-    </head>
-  </html>
+`hola mundo`
   
 ## Citas
 Las Blocknotes pueden contener otros elementos formateados en Markdown. No se pueden utilizar todos los elementos; deberá experimentar para ver cuáles funcionan.
@@ -44,5 +40,6 @@ Las Blocknotes pueden contener otros elementos formateados en Markdown. No se pu
 >  ayuda me muero
 
 ## Tablas
---- hola ---
-asfjasfuo|ljndsglsdg|
+| Columna 1 | Columna 2 |
+|-----------|-----------|
+|  fila 1   |  fila 2   |
